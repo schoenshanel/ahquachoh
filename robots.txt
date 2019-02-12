@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://noyaeth.xulingbo.net/sitemap.xml
